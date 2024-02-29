@@ -1,6 +1,6 @@
 # InstaSaver
 
-Zoom out and copy all your html into page.txt
+Zoom out on your instagram saved reels paged, go into inspect and youll see some items you need to copy all your html into page.txt
 
 
 ## instructions
