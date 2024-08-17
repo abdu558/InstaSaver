@@ -35,5 +35,5 @@ if __name__ == "__main__":
     main()
 
 
-        urllib.request.urlretrieve(post_link, name) 
+        # urllib.request.urlretrieve(post_link, name) 
 #use this on the websites cdn.
